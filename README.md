@@ -1,3 +1,11 @@
+# zap2it.com removal
+
+4/1/25 updated to use new website
+https://www.reddit.com/r/cordcutters/comments/1jksy2t/zap2its_listings_dead_site_redirects_to_newsnation/
+
+Old -> tvlistings.zap2it.com
+New -> tvlistings.gracenote.com
+
 :no_entry: [DEPRECATED]
 
 # zap2xml
